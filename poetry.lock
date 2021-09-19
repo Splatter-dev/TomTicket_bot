@@ -708,7 +708,7 @@ watchdog = ["watchdog"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "33faaef48e598ab0a02930b3c7dd9c9f2b44e2f22cd8a8ebffe3c40af75ff715"
+content-hash = "602bd72f3187580f57dd5be926ee58a646d7d418245873213b80b056fab06129"
 
 [metadata.files]
 appnope = [
